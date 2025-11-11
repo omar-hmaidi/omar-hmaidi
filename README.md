@@ -26,6 +26,7 @@ I'm also a student in the **Abu-Hadhoud Roadmap**, where I enjoy building projec
 - [Project 1: Stone - Paper - Scissors](https://github.com/omar-hmaidi/Project1-Rock_Paper_Scissors_cpp)
 - [Project 2: Math Game](https://github.com/omar-hmaidi/Math-Game)
 - [Project 3: Banking System](https://github.com/omar-hmaidi/Banking-System)
+- [Project 3: Banking System](https://github.com/omar-hmaidi/ATM-System)
 
 ---
 
